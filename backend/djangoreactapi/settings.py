@@ -25,10 +25,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-    'post', # 추가
-    'rest_framework', #추가
-    'corsheaders', # 추가
+    'tblAdvtBsc',           # app  추가
+    'rest_framework',       # api  추가
+    'corsheaders',          # cors 추가
 ]
 
 #이하 추가
