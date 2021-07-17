@@ -26,7 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'post', #추가
+    'post', # 추가
     'rest_framework', #추가
     'corsheaders', # 추가
 ]
