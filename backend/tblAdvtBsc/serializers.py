@@ -5,5 +5,6 @@ class tblAdvtBscSerializer(serializers.ModelSerializer):
     class Meta:
         fields = (
             'AdvtNo',
+            'AdvtTpCd',
         )
         model = tblAdvtBsc
